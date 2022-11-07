@@ -2,7 +2,7 @@
 Java Variables, Types, Expressions and User Input
 
 ## What to know
-Before you begin this project, you need to be familiar with Java variables, data types, Strings and reading user input.  
+Before you begin this project, you need to be familiar with Java variables, data types, Strings, arithmetic expressions and reading user input.  
   
 If you are not familiar with this already, watch the following tutorial within the given time frame:  
 - [Types](https://youtu.be/eIrMbAQSU34?t=1552) [25:22] to [End of Reading Input](https://youtu.be/eIrMbAQSU34?t=5140) [1:30:43]  
