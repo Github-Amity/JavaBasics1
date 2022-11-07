@@ -1,5 +1,5 @@
 # JavaBasics1
-Java Variables, Types and User Input
+Java Variables, Types, Expressions and User Input
 
 ## What to know
 Before you begin this project, you need to be familiar with Java variables, data types, Strings and reading user input.  
