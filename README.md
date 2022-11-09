@@ -19,7 +19,7 @@ Hint: You can use the Math.pow() function by importing the Math module, by addin
 
 ## Instructions
 - Clone the repository to obtain the project file [BMICalculator.java](https://github.com/Github-Amity/JavaBasics1/blob/main/BMICalculator.java). Watch [this](https://screenrec.com/share/mYGUsDTH9F) to learn how to clone a repository.
-- There are three blocks of code you need to add. The instructions for the code you need to write are given with 🔴 emoji and the areas are marked with ⬇️⬆️ emojis.
+- There are three blocks of code you need to add. The instructions for the code you need to write are given with 🔴 emoji and the areas are marked with ⬇️⬆️ emojis. Do NOT write anything outside these areas.
 - Once you are done, run the code in your editor and make sure that your method is correct and your input and output match the ones given below.
 
 Input:  
