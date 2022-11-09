@@ -51,6 +51,7 @@ public class BMICalculator {
         scanner.close();
     }
 
+    // Ignore the method below. This is simply for checking your getBMI() method.
     public static void testBMI() {
         double test = getBMI(150,45);
         if (test==20.0) {
