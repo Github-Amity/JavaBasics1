@@ -26,6 +26,14 @@ Input:
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/85291498/200606484-d6920615-535b-484a-af6a-5d97eb0e7243.png">
 
 Output:  
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/85291498/200606687-3a2929fc-47d7-4f97-816c-95110ddf16fe.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/85291498/200606687-3a2929fc-47d7-4f97-816c-95110ddf16fe.png">  
 
-- Submit the project via WhatsApp.
+- Before submitting, change the name of the class to include your name.  
+For example:  
+If your name is Salma, change the name of the class to SalmaBMICalculator.  
+
+- Similarly, change the name of your file to include your name (otherwise, the code will not run in your IDE).  
+- Create a fork of this repository, submit your file and open a pull request. Watch [this](https://screenrec.com/share/FmnKtd61DW) to learn how to do that.
+
+
+Congratulations on completing the project!
