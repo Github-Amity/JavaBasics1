@@ -18,7 +18,7 @@ Body Mass Index formula:
 Hint: You can use the Math.pow() function by importing the Math module, by adding ``import java.util.*`` line at the beginning of your file.  
 
 ## Instructions
-- Clone the repository to obtain the project file [BMICalculator.java](https://github.com/Github-Amity/JavaBasics1/blob/main/BMICalculator.java). Watch [this](https://screenrec.com/share/mYGUsDTH9F) to learn how to clone a repository.
+- Download the code (ZIP) to obtain the project file [BMICalculator.java](https://github.com/Github-Amity/JavaBasics1/blob/main/BMICalculator.java). Watch [this](https://screenrec.com/share/oM6FZ9VsIW) to learn how to do that. If you have git installed, you can [clone the repository](https://screenrec.com/share/mYGUsDTH9F) instead.
 - There are three blocks of code you need to add. The instructions for the code you need to write are given with 🔴 emoji and the areas are marked with ⬇️⬆️ emojis. Do NOT write anything outside these areas.
 - Once you are done, run the code in your editor and make sure that your method is correct and your input and output match the ones given below.
 
