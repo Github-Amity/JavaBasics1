@@ -10,7 +10,6 @@ public class BMICalculator {
 
         // 🔴 Calculate BMI and store the result in the variable "bmi"
         // ⬇️------------Write your code below (approx. 2 lines of code)-----------⬇️
-        System.out.println("Hi");
 
 
         // ⬆️--------------------------------END HERE------------------------------⬆️
