@@ -12,7 +12,6 @@ public class BMICalculator {
         // ⬇️------------Write your code below (approx. 2 lines of code)-----------⬇️
 
 
-
         // ⬆️--------------------------------END HERE------------------------------⬆️
         return bmi;     // Returns bmi value. This is the result when getBMI() method is called
     }
