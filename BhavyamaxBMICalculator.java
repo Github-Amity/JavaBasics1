@@ -11,7 +11,7 @@ public class BhavyamaxBMICalculator {
 
         // 🔴 Calculate BMI and store the result in the variable "bmi"
         // ⬇️------------Write your code below (approx. 2 lines of code)-----------⬇️
-
+        bmi = weight/(height*height);
         // ⬆️--------------------------------END HERE------------------------------⬆️
         return bmi; // Returns bmi value. This is the result when getBMI() method is called
     }
