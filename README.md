@@ -19,7 +19,7 @@ Hint: You can use the Math.pow() function by importing the Math module, by addin
 
 ## Instructions 
 - Copy the code from the project file [BMICalculator.java](https://github.com/Github-Amity/JavaBasics1/blob/main/BMICalculator.java) and paste it in an online java compiler. Change the class name and its references to "Main" to match the file name of the online compiler.  Watch [this](https://youtu.be/xgyo7UsfKZo) tutorial if you're using an online compiler for the project.  
-Instead, if you have a code editor and Java installed on your system, download the code (ZIP file). Watch [this](https://screenrec.com/share/oM6FZ9VsIW) to learn how to do that.  
+Instead, if you have a code editor and Java installed on your system, download the code (ZIP file). Watch [this](https://www.youtube.com/watch?v=vC_O2OgU178) to learn how to do that.  
 Instead, if you have git installed, you can [clone the repository](https://screenrec.com/share/mYGUsDTH9F).
 - There are three blocks of code you need to add. The instructions for the code you need to write are given with 🔴 emoji and the areas are marked with ⬇️⬆️ emojis. Do NOT write anything outside these areas.
 - Once you are done, run the code in your editor and make sure that your method is correct and your input and output match the ones given below.
@@ -36,7 +36,7 @@ Output:
 For example:  
 If your name is Salma, change the name of the file to SalmaBMICalculator.java  
 - Similarly, change the name of your class (and all its references) to include your name (otherwise, the code will not run in your IDE).  
-- The create a fork of this repository, submit your file and open a pull request. Watch [this](https://screenrec.com/share/FmnKtd61DW) to learn how to do that.
+- Then create a fork of this repository, submit your file and open a pull request. Watch [this](https://screenrec.com/share/FmnKtd61DW) to learn how to do that.
 
 
 Congratulations on completing the project!
