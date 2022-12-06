@@ -5,10 +5,11 @@ public class BMICalculator {
     int height;
     float weight;
 
-    public static double getBMI(int height, float weight) {
+    public static double getBMI(int height, float weight) {  // function header. Use "height" and "weight" variables in your code below
         double bmi = 0;     // Declares a variable named "bmi" of type double. Temporarily stores the value 0.
 
         // 🔴 Calculate BMI and store the result in the variable "bmi"
+        // 🔴 Hint: height needs to be converted to appropriate type before being used in the bmi equation
         // ⬇️------------Write your code below (approx. 2 lines of code)-----------⬇️
 
 
