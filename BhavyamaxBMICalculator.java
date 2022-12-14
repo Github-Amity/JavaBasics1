@@ -11,7 +11,9 @@ public class BhavyamaxBMICalculator {
 
         // 🔴 Calculate BMI and store the result in the variable "bmi"
         // ⬇️------------Write your code below (approx. 2 lines of code)-----------⬇️
-        bmi = weight/(height*height);
+        double heightInM = ((double)height)/100;
+        System.out.println(heightInM);
+        bmi = weight/(heightInM*heightInM);
         // ⬆️--------------------------------END HERE------------------------------⬆️
         return bmi; // Returns bmi value. This is the result when getBMI() method is called
     }
@@ -30,9 +32,9 @@ public class BhavyamaxBMICalculator {
         // 🔴 Read user input and store the value in the object attribute "height"
         // 🔴 Repeat the same for "weight"
         // ⬇️------------Write your code below (approx. 4 lines of code)-----------⬇️
-        System.out.print("Enter your height: ");
+        System.out.print("Enter your height (in cm): ");
         user.height = scanner.nextInt();
-        System.out.print("Enter your weight: ");
+        System.out.print("Enter your weight (in kg): ");
         user.weight = scanner.nextFloat();
 
         // ⬆️--------------------------------END HERE------------------------------⬆️
