@@ -12,7 +12,7 @@ public class BMICalculator {
         // 🔴 Calculate BMI and store the result in the variable "bmi"
         // 🔴 Hint: height needs to be converted to appropriate type before being used in the bmi equation
         // ⬇️------------Write your code below (approx. 2 lines of code)-----------⬇️
-
+        bmi = weight / Math.pow(height / 100.0, 2);
 
         // ⬆️--------------------------------END HERE------------------------------⬆️
         return bmi;     // Returns bmi value. This is the result when getBMI() method is called
@@ -33,7 +33,11 @@ public class BMICalculator {
         // 🔴 Repeat the same for "weight"
         // ⬇️------------Write your code below (approx. 4 lines of code)-----------⬇️
 
-
+        System.out.print("Enter your height (in cm): ");
+        user.height = scanner.nextInt();
+        
+       System.out.print("Enter your weight (in kg): ");
+       user.weight = scanner.nextFloat();
 
 
 
